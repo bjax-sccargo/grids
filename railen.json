@@ -1,0 +1,38 @@
+{
+  "manufacturer": "Gatac",
+  "name": "Railen [Concept]",
+  "official": {
+    "capacity": 640,
+    "groups": [
+      {
+        "x": 0,
+        "z": 0,
+        "grids": [
+          {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "width": 8,
+            "height": 8,
+            "length": 10,
+            "preferHorizontal": true
+          }
+        ]
+      }
+    ],
+    "labels": [
+      {
+        "value": "Railen  [Concept]",
+        "x": 40,
+        "z": -20,
+        "fontSize": 5
+      },
+      {
+        "value": "${scu}",
+        "x": 40,
+        "z": -27,
+        "fontSize": 5
+      }
+    ]
+  }
+}
